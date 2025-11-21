@@ -5,10 +5,17 @@ Aprendizado em Flutter e Dart, com projetos, exercícios, anotações e prática
 Fundamentos do curso:
 
 Widgets básicos e avançados
+
 Navegação entre telas
+
 Gerenciamento de estado
+
 Consumo de APIs
+
 Uso de Google Maps
+
 Câmera do dispositivo
+
 Animações
+
 Publicação de apps
