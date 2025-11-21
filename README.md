@@ -19,3 +19,13 @@ Câmera do dispositivo
 Animações
 
 Publicação de apps
+
+# Tecnologias Utilizadas
+
+Flutter SDK
+
+Dart
+
+Android Studio / VS Code
+
+Emuladores Android e iOS
