@@ -29,3 +29,8 @@ Dart
 Android Studio / VS Code
 
 Emuladores Android e iOS
+
+<p align="center">
+  <img src="/img/phone.webp" width="300">
+</p>
+
