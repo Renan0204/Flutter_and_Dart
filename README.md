@@ -31,7 +31,7 @@ Android Studio / VS Code
 Emuladores Android e iOS
 
 <p align="left">
-  <img src="/img/flutter.png" width="300">
+  <img src="/img/Flutter.png" width="300">
 </p>
 
 <p align="right">
