@@ -34,5 +34,5 @@ Emuladores Android e iOS
   <img src="/img/logo_flutter.png" width="200">
   <img src="/img/phone.webp" width="250">
   <img src="/img/logo_dart.png" width="250">
-  <img src="/img/logo_ios_android.png" width="250">
+  <img src="/img/logo_ios_android.png" width="200">
 </div>
