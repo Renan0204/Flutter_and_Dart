@@ -30,11 +30,13 @@ Android Studio / VS Code
 
 Emuladores Android e iOS
 
-<p align="left">
-  <img src="/img/logo_flutter.png" width="220">
-</p>
-
-<p align="right">
-  <img src="/img/phone.webp" width="300">
-</p>
-
+<table>
+  <tr>
+    <td align="left">
+      <img src="/img/logo_flutter.png" width="220">
+    </td>
+    <td align="right">
+      <img src="/img/phone.webp" width="300">
+    </td>
+  </tr>
+</table>
