@@ -1,16 +1,37 @@
-# aula_01
+# Estudos em Flutter & Dart
 
-A new Flutter project.
+Aprendizado em Flutter e Dart, com projetos, exercícios, anotações e práticas desenvolvidas ao longo do curso "Flutter e Dart - Aprenda e Construa APP iOS e Android - Udemy".
 
-## Getting Started
+Fundamentos do curso:
 
-This project is a starting point for a Flutter application.
+Widgets básicos e avançados
 
-A few resources to get you started if this is your first Flutter project:
+Navegação entre telas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Gerenciamento de estado
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Consumo de APIs
+
+Uso de Google Maps
+
+Câmera do dispositivo
+
+Animações
+
+Publicação de apps
+
+# Tecnologias Utilizadas
+
+Flutter SDK
+
+Dart
+
+Android Studio / VS Code
+
+Emuladores Android e iOS
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/img/logo_flutter.png" width="200">
+  <img src="/img/phone.webp" width="250">
+  <img src="/img/logo_dart.png" width="250">
+</div>
