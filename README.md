@@ -32,6 +32,5 @@ Emuladores Android e iOS
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="/img/logo_flutter.png" width="200">
-  <img src="/img/phone.webp" width="250">
   <img src="/img/logo_dart.png" width="250">
 </div>
